@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../MinimalNoteWebMVC/MinimalNoteWebMVC/MinimalNoteWebMVC.csproj" />
   <Project Path="MinimalNoteApp/MinimalNoteApp.csproj" />
 </Solution>
