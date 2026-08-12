@@ -27,3 +27,6 @@ Basit bir not alma uygulaması. Notes API (ASP.NET Core Web API + Entity Framewo
 - ASP.NET Core MVC
 - Entity Framework Core
 - Bootstrap 5
+
+
+##
