@@ -61,5 +61,4 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-**/Views/**/*.cshtml linguist-language=C#
-**/wwwroot/lib/** linguist-vendored
+
